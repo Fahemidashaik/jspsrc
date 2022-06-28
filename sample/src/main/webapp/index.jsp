@@ -9,6 +9,9 @@ How are you ?
 </title>
 Welcome to the fahemidas online session
 
+Microsoft Azure
+welcome to the Devops
+
 </head>
 <body>
 
